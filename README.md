@@ -1,12 +1,12 @@
 <br>
 
 <div align="center">
-  <a href="DOWNLOADLINK">
+  <a href="https://google.com">
     <img src="./resources/icon.png" width="144"/>
   </a>
-  <h1 align="center">Hydra Launcher</h1>
+  <h1 align="center">Hydra Launcher Windows Repack</h1>
   <p align="center">
-    <strong>Hydra is a game launcher with its own embedded bittorrent client and a self-managed repack scraper.</strong>
+    <strong>Hydra Launcher Windows is a game launcher with its own embedded bittorrent client and a self-managed repack scraper.</strong>
   </p>
   <p>
     <a href="https://github.com/hydralauncher/hydra">
@@ -17,7 +17,7 @@
     </a>
   </p>
 
-![Hydra Catalogue](./resources/screenshot.png)
+[![Hydra Catalogue](https://google.com)](./resources/screenshot.png)
 
 </div>
 
@@ -35,10 +35,9 @@
 
 ## About
 
-
 **Hydra** is a **Game Launcher** with its own BitTorrent Client and repack scraper. 
 <br>
-It's built using TypeScript (Electron) and Python, leveraging libtorrent for seamless torrenting.
+It's built using TypeScript (Electron) and Python, leveraging libtorrent for seamless torrenting. Hydra provides a Windows repack with maximum optimization for performance on Windows 10 and Windows 11, ensuring the best possible user experience on these platforms.
 
 ## Features
 
@@ -57,7 +56,7 @@ Follow the steps below to install:
 
 - **Download**: Get the software archive from the provided link.
 
-[![Hydra Launcher](resources/dwnload.png)](DOWNLOADLINK)
+[![Hydra Launcher](https://google.com)](resources/dwnload.png)
 
 - **Unpack**: Extract the downloaded files to a folder.
 
@@ -87,6 +86,3 @@ Follow the steps below to install:
 - torrent-client: We use libtorrent, a Python library, to manage torrent downloads
 - src/renderer: the UI of the application
 - src/main: all the logic rests here.
-
-
-
